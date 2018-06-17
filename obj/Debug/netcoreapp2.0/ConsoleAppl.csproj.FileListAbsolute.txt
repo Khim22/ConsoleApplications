@@ -1,0 +1,11 @@
+C:\Users\Deunique\Desktop\ConsoleAppl\bin\Debug\netcoreapp2.0\ConsoleAppl.deps.json
+C:\Users\Deunique\Desktop\ConsoleAppl\bin\Debug\netcoreapp2.0\ConsoleAppl.runtimeconfig.json
+C:\Users\Deunique\Desktop\ConsoleAppl\bin\Debug\netcoreapp2.0\ConsoleAppl.runtimeconfig.dev.json
+C:\Users\Deunique\Desktop\ConsoleAppl\bin\Debug\netcoreapp2.0\ConsoleAppl.dll
+C:\Users\Deunique\Desktop\ConsoleAppl\bin\Debug\netcoreapp2.0\ConsoleAppl.pdb
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.csprojAssemblyReference.cache
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.csproj.CoreCompileInputs.cache
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.AssemblyInfoInputs.cache
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.AssemblyInfo.cs
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.dll
+C:\Users\Deunique\Desktop\ConsoleAppl\obj\Debug\netcoreapp2.0\ConsoleAppl.pdb
